@@ -1,4 +1,4 @@
-Data Analyst | Zomato Restaurant Data Analysis
+#Data Analyst | Zomato Restaurant Data Analysis
 
 Market Trend Analysis: Conducted in-depth analysis of Zomato’s restaurant data using Microsoft Excel, examining key factors such as price range distribution, average voter count, and customer ratings to identify market trends and growth opportunities.
 
