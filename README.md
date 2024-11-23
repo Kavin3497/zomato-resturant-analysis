@@ -1,17 +1,19 @@
-Data Analyst | Chinook Music Database Analysis
+Data Analyst | Zomato Restaurant Data Analysis
 
-Sales Trend Analysis: Analyzed the Chinook Music Database using MySQL Workbench, identifying top-selling tracks, artists, and genres to uncover global sales trends. Provided actionable insights to optimize inventory and promotional strategies.
+Market Trend Analysis: Conducted in-depth analysis of Zomato’s restaurant data using Microsoft Excel, examining key factors such as price range distribution, average voter count, and customer ratings to identify market trends and growth opportunities.
 
-Customer Behavior Analysis: Examined customer purchasing behavior, focusing on frequency, basket size, and spending patterns to reveal customer preferences. This informed data-driven marketing strategies and product recommendations.
+Customer Insights: Analyzed customer ratings and reviews to uncover insights into preferred cuisines, pricing strategies, and restaurant features, enabling data-driven recommendations to enhance customer satisfaction and optimize restaurant offerings.
 
-Marketing Strategy Recommendations: Developed targeted marketing campaigns and customer retention strategies, including loyalty programs and personalized suggestions to increase customer engagement and optimize sales.
+Strategic Recommendations: Developed data-driven recommendations for new restaurant locations, including competitive market assessments and suggestions for innovative culinary concepts to attract customers and improve profitability.
+
+Reporting & Presentation: Documented findings and strategic proposals in Microsoft Word and communicated insights effectively through PowerPoint presentations, using data visualizations to support recommendations for stakeholders.
 
 Key Skills & Tools:
 
-SQL (MySQL Workbench): Data extraction, query optimization, complex joins, and aggregation.
+Microsoft Excel: Data analysis, pivot tables, trend identification, and advanced formulas.
 
-Excel: Advanced data manipulation, pivot tables, and data visualization for reporting and trend analysis.
+Microsoft Word: Report writing, documentation, and presentation of findings.
 
-PowerPoint: Creation of clear, impactful presentations to communicate findings and insights to stakeholders.
+Microsoft PowerPoint: Designing clear, engaging presentations with data-driven insights and recommendations.
 
-Word: Report writing and documentation to summarize analysis and provide recommendations.
+Market Research & Competitive Analysis: Location assessments, customer preferences, and competitive landscape analysis.
